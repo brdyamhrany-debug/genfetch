@@ -1,0 +1,5 @@
+# packages.txt - list of Termux packages instead of pip libs
+# one package per line, lines starting with # are ignored
+python
+iproute2
+git
